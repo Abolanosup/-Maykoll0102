@@ -1,2 +1,2 @@
 Abolanos3={'dir': '', 'cloudtype': 'moodle', 'moodle_host': '--', 'moodle_repo_id': 5, 'moodle_user': '--', 'moodle_password': '--', 'isadmin': 1, 'zips': 100, 'uploadtype': 'draft', 'proxy': '', 'tokenize': 0}
-Maykoll0102={'dir': '', 'cloudtype': 'moodle', 'moodle_host': '--', 'moodle_repo_id': 5, 'moodle_user': '--', 'moodle_password': '--', 'isadmin': 1, 'zips': 100, 'uploadtype': 'draft', 'proxy': '', 'tokenize': 0}
+Maykoll0102={'dir': '', 'cloudtype': 'moodle', 'moodle_host': 'https://moodle.uclv.edu.cu/', 'moodle_repo_id': 4, 'moodle_user': 'noramirez', 'moodle_password': 'chircan*99', 'isadmin': 1, 'zips': 398, 'uploadtype': 'calendar', 'proxy': '', 'tokenize': 0}
